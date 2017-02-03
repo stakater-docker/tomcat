@@ -4,7 +4,7 @@ MAINTAINER Hamza <hamza@aurorasolutions.io>
 RUN apk -Uuv add wget pwgen ca-certificates
 
 ENV TOMCAT_MAJOR_VERSION 7
-ENV TOMCAT_MINOR_VERSION 7.0.55
+ENV TOMCAT_MINOR_VERSION 7.0.59
 ENV CATALINA_HOME /tomcat
 
 # INSTALL TOMCAT
